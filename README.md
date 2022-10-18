@@ -11,3 +11,4 @@
 1. f
 
 brtest に書き込み
+brtest をUbuntuから編集(VScode)
