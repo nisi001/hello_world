@@ -14,3 +14,4 @@ brtest に書き込み
 
 Ubuntu からの編集(vScode)
 GitHub からの編集(サーバ上)
+GitHub からの編集(サーバ上) 2回目
