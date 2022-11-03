@@ -12,3 +12,5 @@
 
 brtest に書き込み
 brtest をUbuntuから編集(VScode)
+
+ssh 接続確認
